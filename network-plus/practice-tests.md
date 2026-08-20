@@ -23,6 +23,10 @@ Generated with a [custom MCQ generator skill](https://github.com/MarkAblai/Custo
 
 ## External practice questions
 
+**[Professor Messer — N10-009 Pop Quizzes](https://www.professormesser.com/category/network-plus/n10-009/n10-009-pop-quiz/)**
+
+Short scenario-based questions written against the current N10-009 objectives, each with a full written explanation of the reasoning. Closest free resource to the style of thinking the real exam asks for. Not a full-length practice exam — treat it as targeted reinforcement after covering a topic.
+
 **[ExamCompass — Free Network+ Practice Tests](https://www.examcompass.com/comptia/network-plus-certification/free-network-plus-practice-tests)**
 
 Free, no signup, organized by topic with a large question bank. Worth knowing going in: questions skew toward definition recall rather than the scenario-based reasoning the real exam leans on, and some items lag behind the current objectives. Good for drilling terminology and finding gaps; weaker as a readiness check.
