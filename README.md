@@ -39,7 +39,8 @@ Roughly the same loop each time:
 ## About the practice questions
 
 
-Questions here are generated from the publicly published exam objectives using a [custom MCQ generator skill](https://github.com/MarkAblai/Custom-Claude-Skills/tree/main/Smart%20MCQ%20Generator) I built, then reviewed and corrected by me. Nothing in this repo is reproduced from an actual exam, and none of it is a brain dump. If you're studying, use these to find your weak spots, not to predict the test.
+Questions here are generated from the publicly published exam objectives using a [custom MCQ generator skill](https://github.com/MarkAblai/Custom-Claude-Skills/tree/main/Smart%20MCQ%20Generator) I built, then reviewed and corrected by me. Nothing in this repo is reproduced from an actual exam, and none of it is a brain dump. If you're studying, use these to find your weak spots, not to predict the test. 
+
 ---
 
 ## Contributing
