@@ -21,7 +21,7 @@ Generated with a [custom MCQ generator skill](https://github.com/MarkAblai/Custo
 
 ## Performance-based questions (PBQs)
 
-Interactive PBQ practice built with the same [custom MCQ generator skill](https://github.com/MarkAblai/Custom-Claude-Skills/tree/main/Smart%20MCQ%20Generator) approach, working from the published objectives.
+Interactive PBQ practice from the published objectives.
 
 1. [PBQ Set 1](https://claude.ai/public/artifacts/c959d63d-cdf0-466a-ab65-8abc29667f05)
 2. [PBQ Set 2](https://claude.ai/public/artifacts/9d305491-17eb-444c-af52-36959c0e6b64)
