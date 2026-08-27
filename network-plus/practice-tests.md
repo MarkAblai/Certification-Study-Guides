@@ -26,6 +26,8 @@ Interactive PBQ practice from the published objectives.
 1. [PBQ Set 1](https://claude.ai/public/artifacts/c959d63d-cdf0-466a-ab65-8abc29667f05)
 2. [PBQ Set 2](https://claude.ai/public/artifacts/9d305491-17eb-444c-af52-36959c0e6b64)
 3. [PBQ Set 3](https://claude.ai/public/artifacts/ce3304cd-c90e-4866-87ed-08ba2bf22490)
+4. [PBQ Set 4](https://claude.ai/public/artifacts/bf883c8f-5445-4dcc-8e26-204c3e13bd27)
+5. [PBQ Set 5](https://claude.ai/public/artifacts/178ba792-bd94-4d2d-ae13-7774aa37af66)
 
 PBQs come first on the real exam and eat time — a common strategy is to flag them, clear the multiple choice, and come back with whatever's left. Practicing the format matters more than practicing the specific scenarios, since you don't want the interface to be the thing slowing you down.
 
