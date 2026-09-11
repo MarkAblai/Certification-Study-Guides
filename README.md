@@ -2,7 +2,7 @@
 
 Resources, notes, and practice questions from each IT certification I've earned. Everything here is what I actually used — no filler, no affiliate links.
 
-I'm a Missouri State IT student (Cybersecurity emphasis) working toward network engineering. These are the materials that got me through each exam, plus practice questions I built and reviewed against the published exam objectives.
+I'm a Missouri State IT student (Cybersecurity emphasis). These are the materials that got me through each exam, plus practice questions I built and reviewed against the published exam objectives.
 
 ---
 
